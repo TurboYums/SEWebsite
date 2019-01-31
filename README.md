@@ -1,6 +1,6 @@
 ## Software Engineering Website
 
-This is for our group to keep updates of the project we are working on
+This is for our group to keep updates on the project we are working on
 
 ### Markdown
 
